@@ -19,13 +19,18 @@ How to Run
 
 
 Flow Diagram-
-?????
+is attached in C:\Users\user\Documents\GitHub\Smart-city\Untitled presentation.jpg
 
-Programming Languages/tools used
+Programming Languages/tools used -
+1. Languages used - Javascript
+2. Frameworks used - NodeJS , ExpressJS, axios, fs(file system), CSV-Parser.
+3. Database - MongoDB
+4. IDE - Visual Studio Code
+5. tools - like chatgpt and google are used for rectifying code errors and understand about required frameworks.
 
 Screenshots -
-Screenshots are attached in the repository
+Screenshots are attached in the repository(C:\Users\user\Documents\GitHub\Smart-city\IOT\ScreenShots)
 
-AssumpƟons if any - 
+Assumptions if any - 
 Assumptions are that the CSV files are the data generated from from Sensors,
-All the three sensors are considered in a single while loop 
+All the three sensors are considered in a single while loop and assuming that out of 3 nodes at any instance random node gives data signal to the sensor server.
